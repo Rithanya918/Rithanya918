@@ -8,28 +8,20 @@
 
 ---
 ## Technology Stack
-
 <tr>
 <td valign="top" width="50%">
+  
+Languages: Python ,R, SQL
 
-#### Languages
-Python | R | SQL
+Cloud Platforms: AWS, Azure, Oracle Cloud
 
-#### Cloud Platforms
-AWS | Azure | Oracle Cloud
+Databases: Google BigQuery, PostgreSQL, MySQL, Oracle Database, MongoDB
 
-#### Databases
-Google BigQuery | PostgreSQL | MySQL | Oracle Database |MongoDB
-</td>
+Visualization: Tableau, Power BI, Looker Studio, Jupyter Notebook, Excel
 
-#### Visualization
-Tableau | Power BI | Looker Studio | Jupyter Notebook | Excel
+ML & Data Science: PyTorch, scikit-learn, Pandas, NumPy
 
-#### ML & Data Science
-PyTorch | scikit-learn | Pandas | NumPy
-
-#### Tools & Platforms
-Oracle APEX | Git | Docker |ETL Pipelines
+Tools & Platforms: Oracle APEX, Git, Docker, ETL Pipelines
 
 ---
 
@@ -61,9 +53,11 @@ Oracle APEX | Git | Docker |ETL Pipelines
 ## Connect with Me
 
 <div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithanya-sekar-/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:rseka002@fiu.edu)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithanya-sekar-/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rseka002@fiu.edu)
+
 </div>
 
 ---
