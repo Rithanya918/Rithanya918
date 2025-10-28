@@ -11,17 +11,17 @@
 <tr>
 <td valign="top" width="50%">
   
-Languages: Python ,R, SQL
+**Languages:** Python, R, SQL
 
-Cloud Platforms: AWS, Azure, Oracle Cloud
+**Cloud Platforms:** AWS, Azure, Oracle Cloud
 
-Databases: Google BigQuery, PostgreSQL, MySQL, Oracle Database, MongoDB
+**Databases:** Google BigQuery, PostgreSQL, MySQL, Oracle Database, MongoDB
 
-Visualization: Tableau, Power BI, Looker Studio, Jupyter Notebook, Excel
+**Visualization:** Tableau, Power BI, Looker Studio, Jupyter Notebook, Excel
 
-ML & Data Science: PyTorch, scikit-learn, Pandas, NumPy
+**ML & Data Science:** PyTorch, scikit-learn, Pandas, NumPy
 
-Tools & Platforms: Oracle APEX, Git, Docker, ETL Pipelines
+**Tools & Platforms:** Oracle APEX, Git, Docker, ETL Pipelines
 
 ---
 
