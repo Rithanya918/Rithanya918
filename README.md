@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=RITHANYA%20SEKAR&fontSize=80&fontAlignY=35&desc=Building%20Data%20Solutions%20•%20One%20Dashboard%20at%20a%20Time&descAlignY=55&descSize=20&animation=fadeIn" />
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+Business+Intelligence;5%2B+Years+in+Business+Analysis+%26+Data+Analytics;Transforming+Data+into+Actionable+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+Business+Intelligence;Transforming+Data+into+Actionable+Insights" alt="Typing SVG" />
 
 </div>
 
@@ -48,17 +48,6 @@ Oracle APEX | Git | Docker |ETL Pipelines
 
 ---
 
-## Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithanya-sekar-/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rseka002@fiu.edu)
-</div>
-
-
----
-
 ## Current Focus
 
 - Building AI-powered analytics solutions
@@ -69,12 +58,12 @@ Oracle APEX | Git | Docker |ETL Pipelines
 
 ---
 
+## Connect with Me
+
 <div align="center">
-  
-### "Transforming complex data into actionable insights, one dashboard at a time."
 
-![Profile Views](https://komarev.com/ghpvc/?username=rithanyasekar&color=blueviolet&style=for-the-badge)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithanya-sekar-/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rseka002@fiu.edu)
 </div>
 
 ---
