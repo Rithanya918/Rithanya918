@@ -5,40 +5,15 @@
 
 ---
 
-## 🎓 About Me
+## About Me
 
 Hello! I'm **Rithanya Sekar**, a Graduate student specializing in **Information Systems** at Florida International University with expertise in building scalable data systems, interactive dashboards, and cloud-based analytics solutions.
 
-- 🔭 Currently working as **Graduate Assistant** at FIU's Academic Space Management
-- 🌱 Specializing in **Data Science**, **Machine Learning**, and **Business Intelligence**
-- 💼 5+ years of experience in **Business Analysis** and **Data Analytics**
-- 🎯 Focused on transforming complex datasets into actionable insights
-- 📊 Passionate about **ETL pipelines**, **predictive analytics**, and **data visualization**
-- 🏆 Certified in **Oracle Cloud**, **Lean Six Sigma Black Belt**, and **Microsoft Business Analyst**
-
----
-
-## 💼 What I Do
-
-```python
-rithanya_sekar = {
-    "role": "Data Analyst | BI Developer | ML Engineer",
-    "education": "MS in Information Systems @ FIU",
-    "expertise": [
-        "Building scalable data pipelines",
-        "Creating interactive Tableau & Power BI dashboards",
-        "Cloud-based analytics (AWS, Oracle, Azure)",
-        "ETL development & data modeling",
-        "Predictive analytics & machine learning"
-    ],
-    "impact": {
-        "traffic_increase": "15%",
-        "process_efficiency": "30% faster",
-        "cost_reduction": "15%",
-        "safety_accuracy": "35% improvement"
-    }
-}
-```
+- Specializing in **Data Science**, **Machine Learning**, and **Business Intelligence**
+- 5+ years of experience in **Business Analysis** and **Data Analytics**
+- Focused on transforming complex datasets into actionable insights
+- Passionate about **ETL pipelines**, **predictive analytics**, and **data visualization**
+- Certified in **Oracle Cloud**, **Lean Six Sigma Black Belt**, and **Microsoft Business Analyst**
 
 ---
 
@@ -115,39 +90,15 @@ rithanya_sekar = {
 | 💼 **Microsoft Business Analyst Professional** | Microsoft | 2024 |
 
 </div>
-
 ---
 
-## 📊 Key Achievements & Impact
-
-```mermaid
-graph LR
-    A[My Impact] --> B[15% Traffic Increase]
-    A --> C[30% Process Efficiency]
-    A --> D[15% Cost Reduction]
-    A --> E[35% Safety Accuracy]
-    
-    style A fill:#6366f1
-    style B fill:#10b981
-    style C fill:#f59e0b
-    style D fill:#ef4444
-    style E fill:#8b5cf6
-```
-
-- 🚀 **15% Organic Traffic Increase** through SEO and data-driven analysis
-- ⚡ **30% Processing Time Reduction** via automated tracking systems
-- 💰 **15% Expenditure Reduction** by optimizing data flow for 20+ clients
-- 🎯 **35% Safety Report Accuracy Improvement** through strategic data collection
-
----
-
-## 💡 Core Competencies
+## Core Competencies
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 📊 Data & Analytics
+### Data & Analytics
 - Data Science & Machine Learning
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis & Predictive Analytics
@@ -157,7 +108,7 @@ graph LR
 </td>
 <td valign="top" width="50%">
 
-### 💼 Business Intelligence
+### Business Intelligence
 - BI Systems Administration
 - Dashboard Development (Tableau, Power BI)
 - Stakeholder Communication
@@ -170,45 +121,33 @@ graph LR
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rithanya-sekar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithanya-sekar-/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rseka002@fiu.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rithanyasekar)
 
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rithanyasekar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithanyasekar&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rithanyasekar&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🔭 Building AI-powered analytics solutions
-- 🌱 Exploring LLM applications in business intelligence
-- 💡 Contributing to open-source data science projects
-- 📚 Advancing cloud-based ETL architectures
-- 🤝 Seeking collaboration on ML & BI projects
+- Building AI-powered analytics solutions
+- Exploring LLM applications in business intelligence
+- Contributing to open-source data science projects
+- Advancing cloud-based ETL architectures
+- Seeking collaboration on ML & BI projects
 
 ---
 
 <div align="center">
   
-### 💬 "Transforming complex data into actionable insights, one dashboard at a time."
+### "Transforming complex data into actionable insights, one dashboard at a time."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rithanyasekar&color=blueviolet&style=for-the-badge)
 
