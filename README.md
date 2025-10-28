@@ -1,16 +1,6 @@
-# 👋 Introducing Myself
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=RITHANYA%20SEKAR&fontSize=80&fontAlignY=35&desc=Building%20Data%20Solutions%20•%20One%20Dashboard%20at%20a%20Time&descAlignY=55&descSize=20&animation=fadeIn" />
-  
-  <table>
-    <tr>
-      <td align="center"><b>🎯 Current Role</b><br/>Graduate Assistant @ FIU</td>
-      <td align="center"><b>🎓 Education</b><br/>MS Information Systems (4.0 GPA)</td>
-      <td align="center"><b>💼 Experience</b><br/>5+ Years in Analytics</td>
-      <td align="center"><b>🏆 Certifications</b><br/>Oracle | Microsoft | Six Sigma</td>
-    </tr>
-  </table>
+
 </div>
 
 ---
