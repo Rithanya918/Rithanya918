@@ -31,7 +31,9 @@
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
-| **Oracle Cloud Infrastructure Data Science Professional** | Oracle | 2025 |
+| **Professional Scrum Product Owner I** | Scrum.org | 2026 |
+| **AWS Certified AI Practitioner** | AWS | 2026 |
+| **Microsoft Azure Al 900** | Microsoft Azure | 2025 |
 | **Oracle APEX Cloud Developer Professional** | Oracle | 2025 |
 | **Lean Six Sigma Black Belt - Level III** | Professional | 2025 |
 | **Microsoft Business Analyst Professional** | Microsoft | 2024 |
