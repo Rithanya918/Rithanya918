@@ -29,10 +29,10 @@
 
 <div align="center">
 
-| Certification | Issuer 
-|--------------|--------
-| **Professional Scrum Product Owner I** | Scrum.org 
-| **AWS Certified AI Practitioner** | AWS 
+| Certification | Issuer |
+|--------------|-------- |
+| **Professional Scrum Product Owner I** | Scrum.org | 
+| **AWS Certified AI Practitioner** | AWS |
 | **Microsoft Azure Al 900** | Microsoft Azure 
 | **Oracle APEX Cloud Developer Professional** | Oracle 
 | **Lean Six Sigma Black Belt - Level III** | Professional 
