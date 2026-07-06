@@ -29,8 +29,8 @@
 
 <div align="center">
 
-| Certification | Issuer | Year |
-|--------------|--------|------|
+| Certification | Issuer 
+|--------------|--------
 | **Professional Scrum Product Owner I** | Scrum.org 
 | **AWS Certified AI Practitioner** | AWS 
 | **Microsoft Azure Al 900** | Microsoft Azure 
