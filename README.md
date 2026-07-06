@@ -31,12 +31,12 @@
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
-| **Professional Scrum Product Owner I** | Scrum.org | 2026 |
-| **AWS Certified AI Practitioner** | AWS | 2026 |
-| **Microsoft Azure Al 900** | Microsoft Azure | 2025 |
-| **Oracle APEX Cloud Developer Professional** | Oracle | 2025 |
-| **Lean Six Sigma Black Belt - Level III** | Professional | 2025 |
-| **Microsoft Business Analyst Professional** | Microsoft | 2024 |
+| **Professional Scrum Product Owner I** | Scrum.org 
+| **AWS Certified AI Practitioner** | AWS 
+| **Microsoft Azure Al 900** | Microsoft Azure 
+| **Oracle APEX Cloud Developer Professional** | Oracle 
+| **Lean Six Sigma Black Belt - Level III** | Professional 
+| **Microsoft Business Analyst Professional** | Microsoft 
 
 </div>
 
